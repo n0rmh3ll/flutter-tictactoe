@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "932052524116",
+    "project_id": "auth-testing-862b1",
+    "storage_bucket": "auth-testing-862b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932052524116:android:196e5a84010113b0dd61c1",
+        "android_client_info": {
+          "package_name": "com.example.tic_tac_toe_multiplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932052524116-sa315d31tsb7iama2vo8384aldkd3fli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tic_tac_toe_multiplayer",
+            "certificate_hash": "0422b4ca1fb960c2d11a34a4cfc0ba3e6eccc8a1"
+          }
+        },
+        {
+          "client_id": "932052524116-isk01cnrd0r7tn0u87moe8kho3r8m432.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT9J1O52PvHXtGuYhhNUUyiNw6DwK3oLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932052524116-isk01cnrd0r7tn0u87moe8kho3r8m432.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "932052524116-ck256ko0a3aj4eodl2lk1askle9mlf7u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.multiplayer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
