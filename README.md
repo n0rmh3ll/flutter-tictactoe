@@ -113,14 +113,6 @@ lib/
 
 ---
 
-## ✨ Highlights
-
-* No pop-ups! Win/lose/draw messages display **below the board** and fade out naturally.
-* User turn starts **alternating** each game.
-* Smooth animations, responsive layouts, and Firestore sync.
-* Supports **multiple game rooms** and **infinite users**.
-
----
 
 ## 🛡️ Requirements
 
