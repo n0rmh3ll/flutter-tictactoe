@@ -29,7 +29,7 @@ A modern, stylish, real-time **Tic Tac Toe game** built with **Flutter** and **F
 
 | Login                           | Home                          | Game                          |
 | ------------------------------- | ----------------------------- | ----------------------------- |
-| ![login](screenshots/login.png) | ![home](screenshots/home.png) | ![game](screenshots/game.png) |
+| ![login](screenshots/login.jpeg) | ![home](screenshots/home.jpeg) | ![game](screenshots/game.jpeg) |
 
 ---
 
